@@ -17,4 +17,4 @@ digital tools like Google Docs, Notion, LinkedIn, and Kaggle.
 
 ## Files
 - README.md – this file
-- infographic.jpg – exported infographic from Canva
+- Digital Literacy - Presentation.jpg – exported infographic from Canva
