@@ -27,7 +27,7 @@ Set up accounts on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub pr
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
 Completed **'Say Hello, World! With Python'** on HackerRank and built a 5-question **Digital Literacy Awareness Quiz** on Google Forms.
 
-> 🔗 **Digital Literacy Quiz Link:** [paste your Google Form link here]
+> 🔗 **Digital Literacy Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSdXcx-rHqI-mNoijMXonnxxMgvil0OCLLqrmtzkkQKu2qrh8g/viewform?usp=dialog
 
 ### Task 4 – Email Etiquette (Module 4)
 Drafted two professional emails and created a Social Media Do's & Don'ts checklist. Files in `task-4-email-etiquette/`.
