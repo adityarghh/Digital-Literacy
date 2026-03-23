@@ -22,7 +22,7 @@ and introduced me to the platform's code editor and test case system.
 4. Name one professional platform useful for CS students. *(Short answer)*
 5. List one safe internet habit you follow. *(Short answer)*
 
-🔗 **Quiz Link:** [paste your Google Form link here]
+🔗 **Quiz Link:** (https://docs.google.com/forms/d/e/1FAIpQLSdXcx-rHqI-mNoijMXonnxxMgvil0OCLLqrmtzkkQKu2qrh8g/viewform?usp=dialog)
 
 ## Files
 - README.md – this file
