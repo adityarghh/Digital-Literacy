@@ -4,8 +4,8 @@
 
 | Platform | Purpose | Profile Link |
 |----------|---------|--------------|
-| GitHub | Code hosting and project portfolio | github.com/adityarghh |
-| LinkedIn | Professional networking and internships | linkedin.com/in/adityaraj-79a53b314 |
+| GitHub | Code hosting and project portfolio | [github.com/adityarghh](https://github.com/adityarghh) |
+| LinkedIn | Professional networking and internships | www.linkedin.com/in/aditya-raj-79a53b314 |
 | Kaggle | Data science and ML practice | https://www.kaggle.com/adityarghh |
 
 ## GitHub Profile README
