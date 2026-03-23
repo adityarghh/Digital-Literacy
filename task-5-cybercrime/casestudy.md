@@ -15,8 +15,8 @@ UPI (Unified Payments Interface) fraud is a form of financial cybercrime in whic
 
 1. A student posts an item for sale (e.g., a laptop or textbook) on a second-hand marketplace like OLX.
 2. A fraudster contacts the student, claiming to be a genuine buyer.
-3. The fraudster says: *"I will send you the payment right now — just scan this QR code to receive it."*
-4. They send a **UPI collect request** or a **payment QR code** — which, when scanned and confirmed with a PIN, actually **deducts money from the victim's account**.
+3. The fraudster says: *"I will send you the payment right now, just scan this QR code to receive it."*
+4. They send a **UPI collect request** or a **payment QR code**, which, when scanned and confirmed with a PIN, actually **deducts money from the victim's account**.
 5. The victim enters their UPI PIN, believing they are receiving money, but instead sends it to the fraudster.
 6. The fraudster may repeat the trick with increasing amounts before the victim realises what has happened.
 
