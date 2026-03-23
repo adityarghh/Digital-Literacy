@@ -36,6 +36,7 @@ I am eager to apply the theoretical knowledge from my coursework in a real-world
 Please find my GitHub profile at https://github.com/adityarghh for reference to my work.
 
 Yours faithfully,
+
 Aditya Raj
-25BAI10708 | VIT Bhopal University  
+25BAI10708 | VIT Bhopal University
 Aditya.25BAI10708@vitbhopal.ac.in
