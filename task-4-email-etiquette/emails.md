@@ -37,6 +37,6 @@ Please find my GitHub profile at https://github.com/adityarghh for reference to 
 
 Yours faithfully,
 
-Aditya Raj
-25BAI10708 | VIT Bhopal University
+Aditya Raj  
+25BAI10708 | VIT Bhopal University  
 Aditya.25BAI10708@vitbhopal.ac.in
