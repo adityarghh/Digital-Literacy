@@ -6,7 +6,7 @@
 |----------|---------|--------------|
 | GitHub | Code hosting and project portfolio | github.com/adityarghh |
 | LinkedIn | Professional networking and internships | linkedin.com/in/adityaraj-79a53b314 |
-| Kaggle | Data science and ML practice | kaggle.com/[your kaggle username] |
+| Kaggle | Data science and ML practice | https://www.kaggle.com/adityarghh |
 
 ## GitHub Profile README
 Created a profile README repository with:
