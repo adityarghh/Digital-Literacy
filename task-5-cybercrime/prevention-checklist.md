@@ -1,7 +1,5 @@
 # Stay Safe Online — Prevention Checklist
 
-*For college students in India | CSE0001 – Digital Literacy*
-
 ---
 
 ## General Online Safety
